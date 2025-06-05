@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi 👋! My name is Mohamed Ali Ben Hamadi and I'm a Software engineering Student from Tunisia
 ✨ Creating bugs since I wrote my first "Hello World"<br>📚 Currently learning web & mobile development, algorithms, and all the fun stuff that breaks my code<br>🎯 Goals: Become a skilled developer, build real-world apps, and maybe… squash all the bugs I created<br>🎲 Fun fact: I once fixed a bug by accident — and couldn’t explain how 
 
 
